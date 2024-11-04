@@ -1,0 +1,29 @@
+1- readFile(-,-
+ -This function used to read the data from files asynchronously
+2-readFile(-,-)
+-This function used to read the data from files synchronously.
+3-writeFile(-,-,-)
+-this function used to write the data asynchronously.
+
+4-writeFileSync(-,-)
+ -this function used to write the data synchronously.
+
+ 5-appendFile()
+  -this file used to append the data Asynchronously.
+
+  6-appendFileSync()
+  -this file used to append the data synchronously.
+
+  7-open()
+   -used to open the file Asynchronously.
+  8-opensync()
+   -used to open the file synchronously.
+
+9-Close():-used to Close the file Asynchronously.
+10-Closesync():-used to Close the file synchronously.
+
+11-unlink():-used to delete the file Asynchronously.
+12-unlinkSync():-used to delete the file synchronously.
+
+13-Truncate():-used to delete the data Asynchronously.
+14-Truncatesync():-used to delete the data synchronously.
