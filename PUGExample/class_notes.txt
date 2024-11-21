@@ -1,0 +1,12 @@
+****PUG*****
+-pug is the template language
+-vendor developed pug template language in order to use like frontend
+-pug template language, containes very few features its recomended to use frontend technologies
+ like angular,react, vuejs....
+
+ How to install Pug language
+ ----------------------------------
+ -yarn add pug --save
+ -//set the pug as frontend
+ app.set("view engine","pug");
+ app.set("views","./views");
